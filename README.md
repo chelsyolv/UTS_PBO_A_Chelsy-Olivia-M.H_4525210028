@@ -16,15 +16,15 @@
 
 | Nama | NPM | Tugas / Fitur yang Dikerjakan |
 | :--- | :--- | :--- |
-| [Khairul Adam Effendi] | [4525210035] | [] |
+| [Khairul Adam Effendi] | [4525210035] | [Main.java] |
 | [Kahlil Ar'umi Kaicil Putera] | [4525210030] | [Jurusan.java] |
 | [Ilham Baihaqi] | [4525210029] | [Jadwal.java] |
-| [Karel Abimanyu Ahpandi] | [4525210031] | [] |
+| [Karel Abimanyu Ahpandi] | [4525210031] | [Quality Check] |
 | [Kevin Samuel Fernatyanan] | [4525210033] | [Dosen.java] |
-| [Harisa Malfa Liya] | [4525210027] | [] |
-| [Chelsy Olivia Maranggi Hutapea] | [4525210028] | [] |
+| [Harisa Malfa Liya] | [4525210027] | [Isi tugas/fitur yang dikerjakan] |
+| [Chelsy Olivia Maranggi Hutapea] | [4525210028] | [Isi tugas/fitur yang dikerjakan] |
 | [Fabian Adiputra] | [4525210024] | [Read.MD] |
-| [Ghathfaan Rizqi Sumantri] | [4525210025] | [] |
+| [Ghathfaan Rizqi Sumantri] | [4525210025] | [Isi tugas/fitur yang dikerjakan] |
 
 
 ---
@@ -46,25 +46,28 @@
 > [Isi Penjelasan mengenai fungsi file ini dan konsep OOP yang diterapkan.]
 
 **Screenshot Kode:**
-![SS Code main.java](![alt text](image.png))
+<img width="1384" height="654" alt="7cb746af-c4fd-4454-bfcf-04f7ad1099be" src="https://github.com/user-attachments/assets/d1aa2819-5f59-4629-92a3-d73ad53829cb" />
 
-### 1.3. File: `Mahasiswa.java`
+### 1.2. File: `Mahasiswa.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Mahasiswa.java](![alt text](image-1.png))
+<img width="1380" height="899" alt="50ae30a8-76ce-42a1-b1fc-6304ef435a72" src="https://github.com/user-attachments/assets/cff58179-a67d-444f-8caf-b9d8e01925a3" />
 
-### 1.4. File: `Jadwal.java`
+
+### 1.3. File: `Jadwal.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Jadwal.java](![alt text](image-2.png))
+<img width="1387" height="510" alt="75dd2985-0706-4c04-8e82-ee9cf1980413" src="https://github.com/user-attachments/assets/15de99d5-5212-4b7a-a625-4ce06bcd692d" />
+
 
 ### Output
 **Hasil Running Program (Java):**
-![Output Java](![alt text](image-3.png))
+<img width="660" height="274" alt="56e67261-e44e-43b6-9534-6b7e33ec120d" src="https://github.com/user-attachments/assets/322776dd-eab1-4afe-ad47-10937963e60a" />
+
 
 ---
 
